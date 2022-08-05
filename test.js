@@ -2,7 +2,7 @@
 	function Card(props) {
   	return (
     	<div className="card">
-      	Helllo world from script
+      	allllezz annaaaaa
   		</div>
     );
   }
